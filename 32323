@@ -285,7 +285,7 @@ repeat
  end
  
  local library = {
-    Title = 'eclipse.<font color="rgb(0, 152, 224)">wtf</font> || Da Hood',
+    Title = 'skyro.<font color="rgb(0, 152, 224)">wtf</font> || Da Hood',
     keybind = Enum.KeyCode.RightBracket,
     Watermark = createWatermark(),
        Colors = {
