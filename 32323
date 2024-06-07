@@ -23,9 +23,9 @@ local Tables = {
    "GeometryCSG"
 }
 
------- * Velocity Ui * ------
+------ * skyro Ui * ------
 --[[
-   # Rewrote by: velocity9108
+   # Rewrote by: lean4me
 ]]
 
 repeat
@@ -62,7 +62,7 @@ local tabholder = menu.bg.bg.bg.bg.bg.bg.main.group
 local tabviewer = menu.bg.bg.bg.bg.bg.bg.tabbuttons
 
 local library = {
-   Title = 'skyro.wtf | <font color="rgb(52, 192, 235)">da hood</font>',
+   Title = 'skyro.wtf | <font color="rgb(52, 192, 235)">!</font>',
    AnimatedText = false,
    keybind = Enum.KeyCode.End,
    Colors = {
