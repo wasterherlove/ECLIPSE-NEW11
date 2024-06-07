@@ -122,7 +122,7 @@ menu.bg.pre.Text = ""
 
 task.spawn(function()
    local textList = { 
-       '', 'e', 'ec', 'ecl', 'ecli', 'eclip', 'skyro', 'skyro.', 'skyro.<font color="rgb(52, 192, 235)">w</font>',
+       '', '', 's', 'sk', 'skyro', 'skyro', 'skyro', 'skyro.', 'skyro.<font color="rgb(52, 192, 235)">w</font>',
        'skyro.<font color="rgb(52, 192, 235)">wt</font>', 'skyro.<font color="rgb(52, 192, 235)">wtf</font>',
        'skyro.<font color="rgb(52, 192, 235)">wtf</font> |', 'skyro.<font color="rgb(52, 192, 235)">wtf</font> | u',
        'skyro.<font color="rgb(52, 192, 235)">wtf</font> | un', 'skyro.<font color="rgb(52, 192, 235)">wtf</font> | uni',
